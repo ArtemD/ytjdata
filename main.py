@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
-#from flask import Flask, escape, request, render_template_string
-#import urllib.request, json 
+from flask import Flask, escape, request, render_template_string
+import urllib.request, json 
 
 
 app = Flask(__name__)
